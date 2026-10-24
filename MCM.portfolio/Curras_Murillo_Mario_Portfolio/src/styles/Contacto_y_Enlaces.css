@@ -25,7 +25,8 @@ div {
     height: 30%;
 }
     
-img {
+.OTWG_img {
+    width: 50%;
     position: fixed;
     bottom: 0;
     right: 0;
